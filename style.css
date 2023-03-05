@@ -1,0 +1,87 @@
+.container {
+	max-width: 800px;
+	margin: 0 auto;
+	text-align: center;
+}
+
+h1 {
+	font-size: 2em;
+	margin-top: 0px;
+	margin-bottom: 50px;
+	color: #fff;
+	background-color: #333;
+	padding: 15px;
+  }
+
+body {
+	background-image: url('https://elargentinodiario.com.ar/wp-content/uploads/2022/08/wp-1660634316694.jpg');
+	background-size: cover;
+  }
+
+button {
+	background-color: #4CAF50;
+	color: white;
+	padding: 10px 20px;
+	border: none;
+	border-radius: 5px;
+	margin-right: 10px;
+	cursor: pointer;
+}
+
+#imagen {
+	margin-top: 100px;
+}
+
+.imagen1 {
+	background-image: url('https://placekitten.com/600/600');
+	background-repeat: no-repeat;
+	background-size: auto;
+	height: 600px;
+	width: 600px;
+	margin: 0 auto;
+}
+
+.imagen2 {
+	background-image: url('https://placekitten.com/500/300');
+	background-repeat: no-repeat;
+	background-size: auto;
+	height: 500px;
+	width: 300px;
+	margin: 0 auto;
+}
+
+.imagen3 {
+	background-image: url('https://placekitten.com/700/650');
+	background-repeat: no-repeat;
+	background-size: auto;
+	height: 700px;
+	width: 650px;
+	margin: 0 auto;
+}
+
+.imagen4 {
+	background-image: url('https://placekitten.com/600/600');
+	background-repeat: no-repeat;
+	background-size: auto;
+	height: 600px;
+	width: 600px;
+	margin: 0 auto;
+}
+
+.imagen5 {
+	background-image: url('https://placekitten.com/500/300');
+	background-repeat: no-repeat;
+	background-size: auto;
+	height: 500px;
+	width: 300px;
+	margin: 0 auto;
+}
+
+.imagen6 {
+	background-image: url('https://placekitten.com/700/650');
+	background-repeat: no-repeat;
+	background-size: auto;
+	height: 700px;
+	width: 650px;
+	margin: 0 auto;
+}
